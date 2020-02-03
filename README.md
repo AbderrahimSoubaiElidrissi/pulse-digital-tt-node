@@ -11,6 +11,7 @@ We believe good engineering is about using the right tool for the right job, and
 
 * Use node.js as runtime
 * The code should be on your gitlab account
+* Push your solution to the branch `yourName/parser`
 * Use Javascript ES5+ (javascript5+).
 
 Functional spec
