@@ -3,23 +3,25 @@ Hi everyone and welcome.
 
 Technical spec
 ---------------
-Your application should be in Noide.js.
+Your application should be in Node.js.
 
 We believe good engineering is about using the right tool for the right job, and constantly learning about them. 
 
 **DO NOT USE ANY NPM PACKAGE FOR THIS TEST**
 
 * Use node.js as runtime
-* The code should be on your github account
-* Use Javascript ES5 (javascript5).
+* The code should be on your gitlab account
+* Use Javascript ES5+ (javascript5+).
 
 Functional spec
 ---------------
-The coding challenge is about implementing an CSV file parser. 
+The coding challenge is about implementing a CSV file parser. 
 
 - The program should read the csv file 
 - The program should parse the readed file to another usefull data type
 - Write a small program that implement your parser (example of use)
+- Use at leass one design pattern
+- Think about SOLID Principles 
  
 How we review
 ----------------
